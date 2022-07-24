@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif !important;
+    padding: 25px;
+    margin: 0;
+    background-color: #00171f;
+    color: #fff;
+}
+
+input{
+    margin-bottom: 10px;
+}
